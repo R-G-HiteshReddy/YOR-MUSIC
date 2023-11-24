@@ -35,7 +35,7 @@ function Register() {
   return (
     <div className="min-h-screen flex items-center justify-center">
       <div className="flex flex-col gap-5 w-96 p-5  ">
-        <h1 className="text-3xl font-bold text-white">Welcome to Melobeats</h1>
+        <h1 className="text-3xl font-bold text-white">Welcome to Yor MUSIC</h1>
         <h1 />
         <input
           type="text"
